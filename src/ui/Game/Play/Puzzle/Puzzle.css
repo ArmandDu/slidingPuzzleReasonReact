@@ -1,0 +1,15 @@
+.Puzzle {
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    /*width: 800px;*/
+}
+
+.Puzzle .Piece {
+    margin: 2px;
+}
+
+.Puzzle .Row {
+    display: flex;
+    flex-flow: row;
+}

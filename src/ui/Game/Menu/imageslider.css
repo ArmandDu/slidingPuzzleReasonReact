@@ -1,0 +1,14 @@
+.ImageSlider {
+    display: flex;
+}
+
+.ImageSlider > img {
+    flex: 1;
+    margin: 24px;
+    width: 200px;
+    height: auto;
+}
+
+.ImageSlider img.active {
+    border: 1px solid black;
+}
