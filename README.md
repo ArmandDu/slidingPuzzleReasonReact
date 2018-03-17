@@ -1,4 +1,4 @@
-#ReasonReact - Sliding Puzzle
+# ReasonReact - Sliding Puzzle
 
 A small sliding puzzle game written in ReasonReact.
 
